@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://hirsun.github.io/clc3242p",
+  hostname: "https://hirsun.github.io/CLC3242P_Wiki/",
 
   author: {
     name: "GRPXX",
-    url: "https://hirsun.github.io/clc3242p",
+    url: "https://hirsun.github.io/CLC3242P_Wiki/",
   },
 
   iconAssets: "iconfont",
