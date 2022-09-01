@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import navbar from "./navbar.js";
-import sidebar from "./sidebar.js";
+import navbar from "./navbar";
+import sidebar from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://hirsun.github.io/clc3242p",
@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "hirsun/CLC3242P_Wiki",
 
-  docsDir: "src",
+  docsDir: "docs",
 
   // navbar
   navbar: navbar,
@@ -29,12 +29,6 @@ export default hopeTheme({
   displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
-  },
 
   plugins: {
     blog: false,
