@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://hirsun.github.io/CLC3242P_Wiki/sitemap.xml
+Sitemap: https://hirsun.github.io/CLC3242P_Wiki/CLC3242P_Wiki/sitemap.xml
