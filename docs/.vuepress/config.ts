@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "CLC3242P GXX",
   description: "中文传义小组项目 Wiki",
 
-  base: "/",
+  base: "/CLC3242P_Wiki",
 
   theme,
 });
