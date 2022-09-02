@@ -71,6 +71,7 @@ footer: GPL3.0 Licensed | Copyright © 2022 HKPU
 <h6 style="text-align:center">
 本站部分材料来自网络，仅用于学术研究。
 <br>
-所有内容均与作业提交无关，不作为任何参考。
+未经组内所有成员许可，不得公开传播。
+<br>
+所有内容不可作为任何作业的评分参考。
 </h6>
-
