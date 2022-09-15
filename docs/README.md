@@ -37,7 +37,7 @@ features:
 
 
 copyright: false
-footer: GPL3.0 Licensed | Copyright © 2022 HKPU
+footer: GPL3.0 Licensed | Copyright © 2022 GXX
 ---
 
 ::: tip 团队协作
